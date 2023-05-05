@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @xtaphoney
-- 👀 I’m interested in Web Development and Data Science
+- 👀 I specialize in Web Development
 - 🌱 I’m currently working with React.js
 - 📫 How to reach me:
-- kireev.khanil.bs@gmail.com
-- tg: xtap_honey
+- mail: kireev.khanil.bs@gmail.com
+- tg: x_tap
 - inst: sp_khani
 
 <!---
